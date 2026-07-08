@@ -1,0 +1,8 @@
+{
+  "name": "Real Estate Landing Page",
+  "description": "A modern, responsive real estate and home styling landing page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
